@@ -64,12 +64,6 @@ To use the script, simply specify any article URL in the `scraper.py` file. Upon
 
 ---
 
-## 🤝 **Contributing**  
-We appreciate your interest! However, we are still finalizing the contribution process.  
-In the meantime, feel free to fork the repository and experiment with the code. We plan to introduce formal contribution guidelines soon.
-
----
-
 ## 📄 **License**  
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
